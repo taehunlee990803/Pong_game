@@ -28,6 +28,9 @@
     <p>To run the game, simply run the main.py file in your terminal:</p>
     <pre><code>python main.py</code></pre>
     <h2>Acknowledgments</h2>
-    <p>This game was created as a learning project inspired by freeCodeCamp.org's tutorial on creating Pong with Python and Turtle.</p>
+    <p>This game was created as a learning project inspired by 100 Days of Code: The Complete Python Pro Bootcamp for 2023 on creating Pong with Python and Turtle.</p>
   </body>
-</html>
+</html><img width="791" alt="Screenshot 2023-05-04 at 3 20 34 PM" src="https://user-images.githubusercontent.com/76606438/236125844-25f95e88-2a3a-4e47-9efa-60ca77dc85ed.png">
+
+
+
