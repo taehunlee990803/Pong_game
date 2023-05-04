@@ -34,3 +34,18 @@ class Scoreboard(Turtle):
         self.goto(150, 200)
         self.write(f"{self.r_score}", True, align="center",
                    font=('Arial', 80, 'normal'))
+
+    def final_check(self):
+        if self.r_score == 3:
+            self.clear()
+            self.goto(0,0)
+            self.write("Winner is right", True, align="center",
+                       font=('Arial', 60, 'normal'))
+            return True
+
+        elif self.l_score == 3:
+            self.clear()
+            self.goto(0,0)
+            self.write("Winner is left", True, align="center",
+                       font=('Arial', 60, 'normal'))
+            return True
