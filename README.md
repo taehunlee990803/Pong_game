@@ -1,6 +1,6 @@
 README.md
 
-Pong Game
+<h1>Pong Game</h1>
 This is a simple implementation of the classic Pong game using Python and the Turtle library.
 
 Requirements
